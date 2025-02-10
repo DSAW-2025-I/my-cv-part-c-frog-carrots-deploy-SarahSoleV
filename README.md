@@ -85,3 +85,6 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+
+LINK DEL CV: (https://sarahsolev.github.io/Hoja-de-vida/)
