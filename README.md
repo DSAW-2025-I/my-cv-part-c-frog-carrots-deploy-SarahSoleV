@@ -88,6 +88,8 @@ section {
 
 
 LINK DEL CV: (https://sarahsolev.github.io/Hoja-de-vida/)
-![Juego grid](images/juego-jardin.png)
-![Juego Flexbox](images/Juego-ranas.png)
+
+![Juego grid](images/juego-jardin.jpg)
+
+![Juego Flexbox](images/Juego-ranas.jpg)
 
