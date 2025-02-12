@@ -1,3 +1,12 @@
+**SARAH INES SOLE VILLALOBOS**
+
+LINK DEL CV: (https://sarahsolev.github.io/Hoja-de-vida/)
+
+![juego jardin](https://github.com/user-attachments/assets/830a3b25-9608-4f6c-88bb-558b9141de63)
+
+![Juego ranas](https://github.com/user-attachments/assets/1d0dcd92-1be3-4590-bbc2-1f4afb2224f4)
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Pu-tfUhR)
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -84,3 +93,4 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
