@@ -1,4 +1,4 @@
-### SARAH INES SOLE VILLALOBOS
+**SARAH INES SOLE VILLALOBOS**
 
 LINK DEL CV: (https://sarahsolev.github.io/Hoja-de-vida/)
 
